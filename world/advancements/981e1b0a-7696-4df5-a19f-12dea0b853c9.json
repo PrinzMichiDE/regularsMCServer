@@ -1,0 +1,81 @@
+{
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2021-12-02 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2021-12-02 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/root_te": {
+    "criteria": {
+      "code_trigger": "2021-12-02 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2021-12-02 22:20:36 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "code_trigger": "2021-12-02 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2021-12-02 22:20:36 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-12-02 22:20:36 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:eio/root_eio": {
+    "criteria": {
+      "code_trigger": "2021-12-02 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2021-12-02 22:20:36 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2021-12-02 22:20:35 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2021-12-02 22:20:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2021-12-02 22:20:36 +0100",
+      "extreme_hills": "2021-12-02 22:21:03 +0100"
+    },
+    "done": false
+  },
+  "mystcraft:root": {
+    "criteria": {
+      "mystcraft_present": "2021-12-02 22:20:36 +0100"
+    },
+    "done": true
+  }
+}
