@@ -1,16 +1,16 @@
 asm
 crash-reports
 customnpcs
-Flan
+#Flan
 llibrary
 local
-#logs
-ModularWarfare
-patchouli_books
+logs
+#ModularWarfare
+#patchouli_books
 reports
-resourcepacks
+#resourcepacks
 saves
-scripts
+#scripts
 shaderpacks
 .curseclient
 .ReAuth.cfg
@@ -24,3 +24,4 @@ patchouli_data.json
 /llibrary
 /journeymap
 /structures
+world
